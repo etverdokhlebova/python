@@ -74,7 +74,7 @@ cities.sort()
 print(cities)
 ['Brno', 'Ceske Budejovice', 'Hradec Kralove', 'Liberec', 'Olomouc', 'Ostrava', 'Pardubice', 'Plzen', 'Prague', 'Usti nad Labem']
 
-#moj mozog zomrel na triedeni miest podla poctu obyvatelej
+#moj mozog zomrel na triedeni miest podla poctu obyvatelej aj na set()
 
 "*".join(cities)
 Out[25]: 'Brno*Ceske Budejovice*Hradec Kralove*Liberec*Olomouc*Ostrava*Pardubice*Plzen*Prague*Usti nad Labem'
